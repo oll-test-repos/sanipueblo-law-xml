@@ -22,15 +22,6 @@ install:
   - ps: $key += $env:GH_SSH_PRIVATE_KEY.Replace(" ", "`n")
   - ps: $key += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\.ssh\id_rsa $key
-  - ps: $fileContent = "-----BEGIN RSA PRIVATE KEY-----`n"
-  - ps: $fileContent += $env:snapshot_key.Replace(" ", "`n")
-  - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
-  - ps: Set-Content c:\users\appveyor\snapshot $fileContent
-  - ps: $fileContent = "-----BEGIN RSA PRIVATE KEY-----`n"
-  - ps: $fileContent += $env:timestamp_key.Replace(" ", "`n")
-  - ps: $fileContent += "`n-----END RSA PRIVATE KEY-----`n"
-  - ps: Set-Content c:\users\appveyor\timestamp $fileContent
-  - set DEFAULT_PARTNER=OLL_PARTNERS_US_NSN_SAN_ILDEFONSO_COUNCIL oll.partners.us.nsn.san_ildefonso.council
 
 
 before_build:
@@ -63,8 +54,8 @@ before_build:
   # install versioned resources (if and only if the build is a tag or cron build)
   - "%PYTHON%\\python.exe -m pip -q install -r requirements.txt"
   # print out the git commits for each repo
-  - git -C ..\oll-test-repos\sanipueblo-law-xml-codified rev-parse HEAD
-  - git -C ..\oll-test-repos\sanipueblo-law-html rev-parse HEAD
+  - git -C ..\sanipueblo\law-xml-codified rev-parse HEAD
+  - git -C ..\sanipueblo\law-html rev-parse HEAD
 
 build_script:
    - ps: $env:FLAG = if ($env:APPVEYOR_PULL_REQUEST_NUMBER -eq $null) { "--deploy" }
