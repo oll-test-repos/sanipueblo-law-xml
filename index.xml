@@ -9,7 +9,6 @@
     <canonical-urls>
       <xml-bulk>https://github.com/oll-test-repos/sanipueblo-law-xml</xml-bulk>
       <html-bulk>https://github.com/oll-test-repos/sanipueblo-law-html</html-bulk>
-	  <static-assets>https://github.com/oll-test-repos/sanipueblo-law-static-assets</static-assets>
       <html>https://law.sanipueblo.org</html>
       <static-assets>https://github.com/oll-test-repos/sanipueblo-law-static-assets</static-assets>
     </canonical-urls>
