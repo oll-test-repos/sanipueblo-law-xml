@@ -7,7 +7,6 @@ environment:
 # Do not build feature branch with open Pull Requests
 skip_branch_with_pr: true
 
-
 on_finish:
   - ps: >-
       if (Test-Path $env:APPVEYOR_BUILD_FOLDER\test_roundtrip.log){
@@ -16,7 +15,6 @@ on_finish:
       If ($env:DEBUG -eq $True) {
           $blockRdp = $true; iex ((new-object net.webclient).DownloadString('https://raw.githubusercontent.com/appveyor/ci/master/scripts/enable-rdp.ps1'))
       };
-
 
 init:
   # exit if secure variables are unset (saves time if fired by a non-team pull request)
@@ -34,7 +32,6 @@ install:
   - ps: $key += "`n-----END RSA PRIVATE KEY-----`n"
   - ps: Set-Content c:\users\appveyor\.ssh\id_rsa $key
   - set US_NSN_SAN_ILDEFONSO_COUNCIL_XML_CODIFIED_PATH=..\sanipueblo\law-xml-codified-preview
-
 
 before_build:
   - ps: >-
