@@ -40,7 +40,7 @@ before_build:
   - ps: >-
       If ($env:APPVEYOR_SCHEDULED_BUILD -eq $True){
         echo 'Scheduled build. Checking if upstream can be merged';
-        git remote add upstream https://github.com/DCCouncil/law-xml.git;
+        git remote add upstream https://github.com/sanipueblo/law-xml.git;
         git fetch upstream;
         git merge upstream/master;
         git diff --name-only --diff-filter=U >> output.log;
@@ -94,7 +94,7 @@ test_script:
   - echo Skipping doomed test discovery to save time
   # run roundtrip tests
   # uncomment when tests are implemented
-  - "cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.nsn.san_ildefonso.council.tests.docs.code.roundtrip -m \"full_roundtrip\""
+  -"cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.nsn.san_ildefonso.council.tests.docs.code.roundtrip -m \"full_roundtrip\""
 
 notifications:
   - provider: Slack
