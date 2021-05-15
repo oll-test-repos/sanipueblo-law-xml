@@ -48,7 +48,13 @@ before_build:
           throw 'Merge with upstream failed. Please update the repository manually';
         }
         else {
-          git push;
+          echo 'Upstream changes have been merged.';
+          git remote set-url origin git@github.com:oll-test-repos/sanipueblo-law-xml.git;
+          $requirementsContent = 'oll-partners # oll.partners.us.nsn.san_ildefonso.council';
+          $requirementsContent | Set-Content -Path 'requirements.txt';
+          git add requirements.txt;
+          git commit -m "Reverted requirements.txt update";
+          git push origin HEAD:master;
         }
       };
 
@@ -91,10 +97,14 @@ build_script:
   - "%PYTHON%\\python.exe  -m oll.tools.cli ci build_preview --library-root .. --auth ../law %FLAG%"
 
 test_script:
-  - echo Skipping doomed test discovery to save time
-  # run roundtrip tests
-  # uncomment when tests are implemented
-  -"cd %APPVEYOR_BUILD_FOLDER% && %PYTHON%\\python.exe -m pytest --pyargs oll.partners.us.nsn.san_ildefonso.council.tests.docs.code.roundtrip -m \"full_roundtrip\""
+  - ps: >-
+      if ($env:APPVEYOR_REPO_BRANCH -eq 'master' -Or $env:APPVEYOR_PULL_REQUEST_HEAD_REPO_BRANCH -eq 'master'){
+        cd $env:APPVEYOR_BUILD_FOLDER;
+        $run_roundtrip = $env:PYTHON + '\python.exe -m pytest --pyargs oll.partners.us.nsn.san_ildefonso.council.tests.docs.code.roundtrip -m "full_roundtrip"';
+        iex $run_roundtrip;
+      } else {
+        echo "Skipping rountrip tests - not master branch build";
+      }
 
 notifications:
   - provider: Slack
