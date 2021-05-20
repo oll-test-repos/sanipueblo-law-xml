@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R21-007">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" id="Pueblo de San Ildefonso Council Res. No. SI-R21-007">
   <num>SI-R21-007</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-007</heading>
   <heading class="center" type="law">
-    <strong>AUTHORIZATION FOR FISCAL YEAR 2020-2021 BUDGET MODIFICATION NO. 1</strong>
+    Authorization for Fiscal Year 2020-2021 Budget Modification No. 1
   </heading>
   <meta>
-    <effective>__________</effective>
+    <effective>2021-05-03</effective>
     <citations>
       <citation type="res">Council Resolution No. SI-R21-007</citation>
     </citations>
@@ -15,22 +15,58 @@
     </history>
   </meta>
   <preamble>At a duly called meeting of the Council of San Ildefonso Pueblo on the 29th day of April , 2021, the following Resolution was adopted:</preamble>
-  <recitals>
+   <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>6.3.23</num>
+      <heading>Authorization for Fiscal Year 2020-2021 Budget Modification No. 1</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-007"/>
+    </container>
+  </codify:insert>
+  <recitals codify:path="6.3.23.010">
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and,</text>
+      <codify:insert path="|6.3.23">
+        <section>
+          <num>6.3.23.010</num>
+          <heading>Findings</heading>
+          <para>
+            <num>(a)</num>
+            <text>The Pueblo de San Ildefonso ("Pueblo') is a sovereign and self-governing Tribe, recognized as such by the United States of America; and</text>
+          </para>
+        </section>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(b)</num>
+          <text>The Council is authorized to make laws for the Pueblo de San Ildefonso pursuant to Section 5 of the Agreement; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(c)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement requires the Pueblo to enact an Annual Budget that includes all projected revenues and expenditures; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(d)</num>
+          <text>Section 5(a)(ii)(A) of the Agreement also allows budget modifications by the Council no more than twice a year; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -62,18 +98,69 @@
           </tbody>
         </table>
       </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(e)</num>
+          <text>The FY2020-2021 Annual Budget is as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2020-2021</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$ 2,874,801.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td colspan="2">$ 6,831,660.00</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td colspan="2">$ 6,366,648.30</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td colspan="2">$ 16,073,109.30</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>it has been determined that certain modifications to the FY 2020-21 Annual Budget are necessary; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(f)</num>
+          <text>It has been determined that certain modifications to the FY 2020-21 Annual Budget are necessary; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(g)</num>
+          <text>The Council has reviewed the proposed Budget Modification No. 1 and has determined that it is in the best interest of the Pueblo to approve Budget Modification No. 1; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
       <text>the Pueblo's FY 2020-2021 Annual Budget amount for general funds will increase by $387,500 as a result of Budget Modification No. 1; and,</text>
+      <codify:insert display-template="">
+        <para>
+          <num>(h)</num>
+          <text>The Pueblo's FY 2020-2021 Annual Budget amount for general funds will increase by $387,500 as a result of Budget Modification No. 1; and</text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>WHEREAS,</conjunction>
@@ -105,14 +192,59 @@
           </tbody>
         </table>
       </text>
+      <codify:insert display-template="">
+        <para>
+          <num>(i)</num>
+          <text>The Pueblo's FY 2020-2021 Annual Budget after Budget Modification No. 1 is as follows:</text>
+          <text>
+            <table>
+              <thead>
+                <tr>
+                  <th colspan="3">ANNUAL BUDGET: FISCAL YEAR 2020-2021</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>GENERAL FUND</td>
+                  <td>$ 3,262,301.00</td>
+                </tr>
+                <tr>
+                  <td>SPECIAL REVENUE FUND</td>
+                  <td colspan="2">$ 6,831,660.00</td>
+                </tr>
+                <tr>
+                  <td>CAPITAL PROJECTS FUND</td>
+                  <td colspan="2">$ 6,366,648.30</td>
+                </tr>
+                <tr>
+                  <td>TOTAL BUDGET:</td>
+                  <td colspan="2">$ 16,460,609.30</td>
+                </tr>
+              </tbody>
+            </table>
+          </text>
+        </para>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>NOW THEREFORE BE IT RESOLVED,</conjunction>
       <text>that the Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2020-2021 Annual Budget and that such modifications shall be effective immediately upon enactment; and</text>
+      <codify:insert path="6.3.23">
+        <section>
+          <num>6.3.23.020</num>
+          <text>The Council hereby approves and authorizes the attached Budget Modification No. 1 to the FY 2020-2021 Annual Budget and that such modifications shall be effective immediately upon enactment.</text>
+        </section>
+      </codify:insert>
     </recital>
     <recital>
       <conjunction>BE IT FINALLY RESOLVED,</conjunction>
       <text>that the Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+      <codify:insert path="6.3.23">
+        <section>
+          <num>6.3.23.030</num>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        </section>
+      </codify:insert>
     </recital>
   </recitals>
   <procedural-data>
@@ -144,72 +276,72 @@
           <tr>
             <td>Terrence K. Garcia</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Thelma Gonzales</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>M. Wayne Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Raymond J. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Denise Moquino</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>James L. Naranjo</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Leon T. Roybal</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Nathan Sanchez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
           </tr>
         </tbody>
       </table>
@@ -241,73 +373,73 @@
         <tbody>
           <tr>
             <td>Terrence K. Garcia</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Thelma Gonzales</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>M. Wayne Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Raymond J. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Denise Moquino</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>James L. Naranjo</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Leon T. Roybal</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
           <tr>
             <td>Nathan Sanchez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td />
+            <td />
+            <td />
+            <td />
           </tr>
         </tbody>
       </table>
@@ -319,11 +451,13 @@
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
   <attachment id="law">
-    <heading class="center" type="law">
-      <strong>AUTHORIZATION FOR FISCAL YEAR 2020-2021 BUDGET MODIFICATION NO. 1</strong>
+    <codify:insert path="6.3.23" num-value="6.3.23.040" tag="section" display-template="New {{cite}}"/>
+    <num/>
+    <heading type="law" class="center" codify:value="Authorization for Fiscal Year 2020-2021 Budget Modification No. 1">
+      AUTHORIZATION FOR FISCAL YEAR 2020-2021 BUDGET MODIFICATION NO. 1
     </heading>
     <para>
-      <num>1.</num>
+      <num codify:value="(a)">1.</num>
       <text>The current FY 2020-2021 Annual Budget, prior to this enactment, is as follows:</text>
       <text>
         <table>
@@ -354,7 +488,7 @@
       </text>
     </para>
     <para>
-      <num>2.</num>
+      <num codify:value="(b)">2.</num>
       <text>The Council hereby approves Budget Modification No. 1 to the FY 2020-2021 Annual Budget as follows and as documented on the attached budgets.</text>
       <text>
         <table>
@@ -410,7 +544,7 @@
               <td>$ 21,000.00</td>
             </tr>
             <tr>
-              <td proof="needed"/>
+              <td/>
               <td>TOTAL:</td>
               <td>$ 387,500.00</td>
             </tr>
@@ -419,11 +553,11 @@
       </text>
     </para>
     <para>
-      <num>3.</num>
+      <num codify:value="(c)">3.</num>
       <text>The Pueblo's FY 2020-2021 Annual Budget amount for general funds will increase by $387,500 as a result of Budget Modification No. 1</text>
     </para>
     <para>
-      <num>4.</num>
+      <num codify:value="(d)">4.</num>
       <text>The Fiscal Year 2020-2021 Annual Budget total after Budget Modification No. 1 is as follows:</text>
       <text>
         <table>

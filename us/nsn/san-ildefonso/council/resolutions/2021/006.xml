@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" id="Pueblo de San Ildefonso Council Res. No. SI-R21-006">
+<document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="14.1" id="Pueblo de San Ildefonso Council Res. No. SI-R21-006">
   <num>SI-R21-006</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-006</heading>
-  <heading type="law">SENIOR CENTER ACT AND THE EVALUATION OF SERVICES AND FUNDING ADMINISTERED BY THE EIGHT NORTHERN INDIAN PUEBLOS COUNCIL, INC.</heading>
+  <heading type="law">Senior Center Act and the Evaluation of Services and Funding Administered by the Eight Northern Indian Pueblos Council, Inc.</heading>
   <meta>
-    <effective>__________</effective>
+    <effective>2021-05-03</effective>
     <citations>
       <citation type="res">Council Resolution No. SI-R21-006</citation>
     </citations>
@@ -66,72 +66,72 @@
           <tr>
             <td>Terrence K. Garcia</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thelma Gonzales</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>M. Wayne Martinez, Jr.</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Raymond J. Martinez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Denise Moquino</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>James L. Naranjo</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Leon T. Roybal</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nathan Sanchez</td>
             <td>X</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
         </tbody>
       </table>
@@ -139,7 +139,7 @@
     <text>
       <strong>DELIVERY OF THE RESOLUTION TO THE GOVERNOR:</strong>
     </text>
-    <text>Resolution No. <u>SI-R21-006</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u> 30</u><sup><u>th </u></sup> day of <u>April</u> , 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
+    <text>Resolution No. <u>SI-R21-006</u> was presented to the Governor of the Pueblo de San Ildefonso on the <u> 30</u><sup><u>th</u></sup> day of <u>April</u> , 2021, pursuant to the Governing document of the Pueblo de San Ildefonso ("Agreement"), GOVERNOR, Sec. 4(c), and will become effective after signature by the Governor or veto override by the Council.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
     <subheading>GOVERNOR'S ACTION:</subheading>
     <text>{ X } APPROVED</text>
@@ -165,73 +165,73 @@
         <tbody>
           <tr>
             <td>Terrence K. Garcia</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thelma Gonzales</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Thomas Gonzales</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>M. Wayne Martinez, Jr.</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Nichole S. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Raymond J. Martinez</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Denise Moquino</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>James L. Naranjo</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Leon T. Roybal</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
           <tr>
             <td>Irene Tse-Pe</td>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
-            <td proof="needed"/>
+            <td/>
+            <td/>
+            <td/>
+            <td/>
           </tr>
         </tbody>
       </table>
@@ -244,22 +244,34 @@
     <text>The foregoing resolution was duly voted upon by the Council on _________________, 2021, at a meeting with a vote of ______ in favor, _____ opposed, _____ abstaining and _____ absent (Governor presiding and not voting) pursuant to the authority vested in the Council by the Agreement of the Pueblo de San Ildefonso.</text>
     <text>Terrence K. Garcia, Council Secretary</text>
   </procedural-data>
+  <codify:insert>
+    <container>
+      <prefix>Part</prefix>
+      <num>14.1.3</num>
+      <heading>Senior Center Act and the Evaluation of Services and Funding Administered by the Eight Northern Indian Pueblos Council, Inc.</heading>
+      <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R21-006"/>
+    </container>
+  </codify:insert>
   <attachment id="law">
+    <codified:at path="14.1.3" />
     <text class="center">
       <strong>PUEBLO DE SAN ILDEFONSO</strong>
     </text>
     <heading type="law">SENIOR CENTER ACT AND THE EVALUATION OF SERVICES AND FUNDING ADMINISTERED BY THE EIGHT NORTHERN INDIAN PUEBLOS COUNCIL, INC.</heading>
     <section>
+      <codify:insert num-value="14.1.3.010" />
       <num>1.1</num>
       <heading>Short Title</heading>
       <text>This enactment shall be known as the "SENIOR CENTER ACT".</text>
     </section>
     <section>
+      <codify:insert num-value="14.1.3.020" />
       <num>1.2</num>
       <heading>Purpose</heading>
       <text>The purpose of this act is to authorize and direct the completion of a comprehensive study, evaluation, and analysis of the current funding and management of the Senior Center ("Senior Center") including options for improving the delivery of services.</text>
     </section>
     <section>
+      <codify:insert num-value="14.1.3.030" />
       <num>1.3</num>
       <heading>Findings</heading>
       <text>The Council hereby finds and declares that:</text>
@@ -281,6 +293,7 @@
       </para>
     </section>
     <section>
+      <codify:insert num-value="14.1.3.040" />
       <num>1.4</num>
       <heading>Senior Center Report of 2021</heading>
       <para>
@@ -291,32 +304,31 @@
         <num>(b)</num>
         <text>The Senior Center Report shall include the following:</text>
         <para>
-          <num>i.</num>
-          <text>An evaluation of the operation of the Senior Center by ENIPC including the</text>
-          <text>current programs and services;</text>
+          <num codify:value="(1)">i.</num>
+          <text>An evaluation of the operation of the Senior Center by ENIPC including the current programs and services;</text>
         </para>
         <para>
-          <num>ii.</num>
+          <num codify:value="(2)">ii.</num>
           <text>An evaluation of the management and staffing of the Senior Center by ENIPC including the selection and supervision of the Site Manager by ENIPC;</text>
         </para>
         <para>
-          <num>iii.</num>
+          <num codify:value="(3)">iii.</num>
           <text>The types and amounts of funding received by ENIPC on behalf of the Pueblo to operate Senior Center;</text>
         </para>
         <para>
-          <num>iv.</num>
+          <num codify:value="(4)">iv.</num>
           <text>The administrative fees charged by ENIPC to operate the Senior Center;</text>
         </para>
         <para>
-          <num>v.</num>
+          <num codify:value="(5)">v.</num>
           <text>The process to modify or cancel the current arrangement with ENIPC as the contractor that operated the Senior Center including whether incremental steps could be taken to move towards a Senior Center that is operated, managed, and administered by the Pueblo;</text>
         </para>
         <para>
-          <num>vi.</num>
+          <num codify:value="(6)">vi.</num>
           <text>An evaluation of the funding requirements to operate the Senior Center and the funding necessary to provide improved and/or expanded services;</text>
         </para>
         <para>
-          <num>vii.</num>
+          <num codify:value="(7)">vii.</num>
           <text>Any other observations and recommendations to assist the Council in evaluating delivery of services by ENIPC at the Senior Center including methods to improve the delivery, type, and scope of services.</text>
         </para>
       </para>
