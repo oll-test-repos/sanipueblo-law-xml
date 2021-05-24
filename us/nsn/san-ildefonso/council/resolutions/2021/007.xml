@@ -2,9 +2,7 @@
 <document xmlns:cache="https://open.law/schemas/cache" xmlns:citations="https://open.law/schemas/citations" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:macro="https://open.law/schemas/macro" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://open.law/schemas/library" codify:doc="Pueblo de San Ildefonso Code" codify:path="6.3" id="Pueblo de San Ildefonso Council Res. No. SI-R21-007">
   <num>SI-R21-007</num>
   <heading>PUEBLO DE SAN ILDEFONSO COUNCIL RESOLUTION NO. SI-R21-007</heading>
-  <heading class="center" type="law">
-    Authorization for Fiscal Year 2020-2021 Budget Modification No. 1
-  </heading>
+  <heading type="law">Authorization for Fiscal Year 2020-2021 Budget Modification No. 1</heading>
   <meta>
     <effective>2021-05-03</effective>
     <citations>
@@ -453,7 +451,7 @@
   <attachment id="law">
     <codify:insert path="6.3.23" num-value="6.3.23.040" tag="section" display-template="New {{cite}}"/>
     <num/>
-    <heading type="law" class="center" codify:value="Authorization for Fiscal Year 2020-2021 Budget Modification No. 1">
+    <heading type="law" codify:value="Authorization for Fiscal Year 2020-2021 Budget Modification No. 1">
       AUTHORIZATION FOR FISCAL YEAR 2020-2021 BUDGET MODIFICATION NO. 1
     </heading>
     <para>
