@@ -13,6 +13,7 @@
       <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
     </canonical-urls>
     <history-start>2017-04-19</history-start>
+    <law-url>https://github.com/oll-test-repos/sanipueblo-law</law-url>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
   <collection name="us/nsn/san-ildefonso/council/resolutions">
