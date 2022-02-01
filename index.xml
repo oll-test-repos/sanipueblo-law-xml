@@ -11,7 +11,7 @@
       <html-bulk>https://github.com/oll-test-repos/sanipueblo-law-html</html-bulk>
       <html>https://law.sanipueblo.org</html>
       <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
-	  <law-url>https://github.com/oll-test-repos/sanipueblo-law</law-url>
+	  <law-git>https://github.com/oll-test-repos/sanipueblo-law.git</law-git>
     </canonical-urls>
     <history-start>2017-04-19</history-start>
   </meta>
