@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="Pueblo de San Ildefonso Code">
+<container xmlns="https://open.law/schemas/library" xmlns:codified="https://open.law/schemas/codified" xmlns:codify="https://open.law/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:cache="https://open.law/schemas/cache" containing-doc="Pueblo de San Ildefonso Code">
   <prefix>Title</prefix>
   <num>6</num>
   <heading>ADMINISTRATION</heading>
@@ -430,19 +430,19 @@
             <table>
               <tbody>
                 <tr>
-                  <td>(1) SRF:	USDA – Pajarito Waste Water</td>
+                  <td>(1) SRF:  USDA – Pajarito Waste Water</td>
                   <td>$130,000</td>
                 </tr>
                 <tr>
-                  <td>(2) SRF:	BIA – Child Passenger Safety Seat</td>
+                  <td>(2) SRF:  BIA – Child Passenger Safety Seat</td>
                   <td>$5,000</td>
                 </tr>
                 <tr>
-                  <td>(3) SRF:	BOR – Irrigation Planning</td>
+                  <td>(3) SRF:  BOR – Irrigation Planning</td>
                   <td>$150,269</td>
                 </tr>
                 <tr>
-                  <td>(4) SRF:	BIA (OTJS) – Tribal Code</td>
+                  <td>(4) SRF:  BIA (OTJS) – Tribal Code</td>
                   <td>
                     <u>$50,000</u>
                   </td>
@@ -615,31 +615,31 @@
             <table>
               <tbody>
                 <tr>
-                  <td>(a) SRF:	I.H.S – Septic System</td>
+                  <td>(a) SRF:  I.H.S – Septic System</td>
                   <td>$25,000.00</td>
                 </tr>
                 <tr>
-                  <td>(b) SRF:	BIA – Transportation: Shu Maa Po Road</td>
+                  <td>(b) SRF:  BIA – Transportation: Shu Maa Po Road</td>
                   <td>$158,994.94</td>
                 </tr>
                 <tr>
-                  <td>(c) SRF:	NM State Library Program</td>
+                  <td>(c) SRF:  NM State Library Program</td>
                   <td>$5,333.33</td>
                 </tr>
                 <tr>
-                  <td>(d) SRF:	NM State Library Program</td>
+                  <td>(d) SRF:  NM State Library Program</td>
                   <td>$7,526.55</td>
                 </tr>
                 <tr>
-                  <td>(e) SRF:	University of NM: Suicide Prevention</td>
+                  <td>(e) SRF:  University of NM: Suicide Prevention</td>
                   <td>$20,000.00</td>
                 </tr>
                 <tr>
-                  <td>(f) GF:	Healthy Kids</td>
+                  <td>(f) GF: Healthy Kids</td>
                   <td>$1,820.00</td>
                 </tr>
                 <tr>
-                  <td>(g) GF:	Youth Program: Winter Summit</td>
+                  <td>(g) GF: Youth Program: Winter Summit</td>
                   <td>$12,762.00</td>
                 </tr>
                 <tr>
@@ -692,31 +692,31 @@
           <table>
             <tbody>
               <tr>
-                <td><strong>(a) SRF:</strong>	I.H.S – Septic System</td>
+                <td><strong>(a) SRF:</strong> I.H.S – Septic System</td>
                 <td>$25,000.00</td>
               </tr>
               <tr>
-                <td><strong>(b) SRF:</strong>	BIA – Transportation: Shu Maa Po Road</td>
+                <td><strong>(b) SRF:</strong> BIA – Transportation: Shu Maa Po Road</td>
                 <td>$158,994.94</td>
               </tr>
               <tr>
-                <td><strong>(c) SRF:</strong>	NM State Library Program</td>
+                <td><strong>(c) SRF:</strong> NM State Library Program</td>
                 <td>$5,333.33</td>
               </tr>
               <tr>
-                <td><strong>(d) SRF:</strong>	NM State Library Program</td>
+                <td><strong>(d) SRF:</strong> NM State Library Program</td>
                 <td>$7,526.55</td>
               </tr>
               <tr>
-                <td><strong>(e) SRF:</strong>	University of NM: Suicide Prevention</td>
+                <td><strong>(e) SRF:</strong> University of NM: Suicide Prevention</td>
                 <td>$20,000.00</td>
               </tr>
               <tr>
-                <td><strong>(f) GF:</strong>	Healthy Kids</td>
+                <td><strong>(f) GF:</strong>  Healthy Kids</td>
                 <td>$1,820.00</td>
               </tr>
               <tr>
-                <td><strong>(g) GF:</strong>	Youth Program: Winter Summit</td>
+                <td><strong>(g) GF:</strong>  Youth Program: Winter Summit</td>
                 <td>
                   <u>$12,762.00</u>
                 </td>
@@ -810,11 +810,11 @@
             <table>
               <tbody>
                 <tr>
-                  <td>(a)	SRF: BIA/Transportation TAP Sidewalk Project</td>
+                  <td>(a) SRF: BIA/Transportation TAP Sidewalk Project</td>
                   <td>$175,489</td>
                 </tr>
                 <tr>
-                  <td>(b)	SRF: DOH Healthy Kids</td>
+                  <td>(b) SRF: DOH Healthy Kids</td>
                   <td>$60,000</td>
                 </tr>
                 <tr>
@@ -869,11 +869,11 @@
           <table>
             <tbody>
               <tr>
-                <td>(a)	SRF: BIA/Transportation TAP Sidewalk Project</td>
+                <td>(a) SRF: BIA/Transportation TAP Sidewalk Project</td>
                 <td>$175,489</td>
               </tr>
               <tr>
-                <td>(b)	SRF: DOH Healthy Kids</td>
+                <td>(b) SRF: DOH Healthy Kids</td>
                 <td>
                   <u>$60,000</u>
                 </td>
@@ -967,13 +967,13 @@
             <table>
               <tbody>
                 <tr>
-                  <td>(a)	SRF:  BIA/CTGP/Aid to Tribal Government/Accounting</td>
+                  <td>(a) SRF:  BIA/CTGP/Aid to Tribal Government/Accounting</td>
                   <td>
                     <u>$16,458</u>
                   </td>
                 </tr>
                 <tr>
-                  <td>(b)	SRF:  BIA/CTGP/Aid to Tribal Government/Governor's Office</td>
+                  <td>(b) SRF:  BIA/CTGP/Aid to Tribal Government/Governor's Office</td>
                   <td>
                     <u>$16,458</u>
                   </td>
@@ -1035,13 +1035,13 @@
           <table>
             <tbody>
               <tr>
-                <td>(a)	SRF:  BIA/CTGP/Aid to Tribal Government/Accounting</td>
+                <td>(a) SRF:  BIA/CTGP/Aid to Tribal Government/Accounting</td>
                 <td>
                   <u>$16,458</u>
                 </td>
               </tr>
               <tr>
-                <td>(b)	SRF:  BIA/CTGP/Aid to Tribal Government/Governor's Office</td>
+                <td>(b) SRF:  BIA/CTGP/Aid to Tribal Government/Governor's Office</td>
                 <td>
                   <u>$16,458</u>
                 </td>
@@ -1215,7 +1215,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the  Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         </para>
       </section>
       <section>
@@ -1416,7 +1416,7 @@
         </para>
         <para>
           <num>(h)</num>
-          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the  Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         </para>
       </section>
       <section>
@@ -1945,7 +1945,7 @@
           <text>By the terms of the previously authorized grant from which the funding must be spent.</text>
         </para>
         <aftertext>
-          <s>(c)	The Council shall authorize department or program activities for which funds can be spent.  An authorization can be general and not specify each item within the budget, provided that such budget items support the authorized Department or program goals and activities.  Council approval of a grant or contract authorizes the types of expenditures for which funds can be spent.  An item can be included in the annual budget if there is such an authorization.</s>
+          <s>(c)  The Council shall authorize department or program activities for which funds can be spent.  An authorization can be general and not specify each item within the budget, provided that such budget items support the authorized Department or program goals and activities.  Council approval of a grant or contract authorizes the types of expenditures for which funds can be spent.  An item can be included in the annual budget if there is such an authorization.</s>
         </aftertext>
         <annotation type="Editor's Notes" dest="container">Subsection (c) was deleted and a new subsection was added to the Fiscal Procedures Act pursuant to the Fiscal Procedures Act Amendments of 2016, Council Resolution No. SI-R16-016, dated August 6, 2016.</annotation>
         <annotation type="History" doc="Pueblo de San Ildefonso Council Res. No. SI-R16-016"/>
@@ -1962,7 +1962,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Legislative Branch.  The Lieutenant Governor shall propose an operating budget for the Legislative branch of government to the Council 	by March 1<sup>st</sup> of every year.  The Council may appropriate funds for the operations of the Legislative branch of government including the Council, personnel, and expenses.  An authorization may be general and need not specify each item or expenditure; provided, that all expenditures support the operations of the Legislative branch of government."</text>
+            <text>Legislative Branch.  The Lieutenant Governor shall propose an operating budget for the Legislative branch of government to the Council  by March 1<sup>st</sup> of every year.  The Council may appropriate funds for the operations of the Legislative branch of government including the Council, personnel, and expenses.  An authorization may be general and need not specify each item or expenditure; provided, that all expenditures support the operations of the Legislative branch of government."</text>
           </para>
         </para>
         <para>
@@ -2858,11 +2858,11 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The Council hereby enacts the attached law 	entitled, "Grant Application and Authorization Act of 2016."</text>
+          <text>The Council hereby enacts the attached law  entitled, "Grant Application and Authorization Act of 2016."</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+          <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the  Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
         </para>
       </section>
       <section>
@@ -2985,7 +2985,7 @@
       </section>
       <section>
         <num>6.5.12.040</num>
-        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the 	Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
+        <text>The Pueblo de San Ildefonso Council hereby approves and adopts this resolution in accordance with the requirements of the Agreement, according to published Council procedures, and authorizes and directs the  Governor, or his designee, to take such actions as deemed necessary to carry out the intent of this resolution.</text>
       </section>
     </container>
   </container>
@@ -3433,7 +3433,7 @@
             <text>including but not limited to market price fluctuations, the Investment Committee will instruct the Investment Manager(s) to bring the portfolio(s) into compliance with these guidelines as promptly and prudently as possible.  In addition, in the event that any individual Investment Manager's portfolio is in violation with its specific guidelines, for reasons including but not limited to market price fluctuations, the Council expects that the Investment Manager will bring the portfolio into compliance with these guidelines as promptly and prudently as possible without instruction from the Governor or Council.</text>
             <text>Diversification for Investment Managers</text>
             <text>It is not necessary or desirable that securities held in the Investment Account(s) represent a cross section of the economy.  However, in order to achieve a prudent level of portfolio diversification for the Investment Account(s), the following allocation limitations will be imposed:</text>
-            <text><strong>Equity:</strong>  	Sector of Industry Group allocations is limited to a <strong>current market value</strong> of 35% of the Account(s).  The <strong>current market value </strong>of any one equity security is limited to 15% of any single segregated manager's portfolio.  These allocation limitations pertain to each separately managed portfolio.</text>
+            <text><strong>Equity:</strong>    Sector of Industry Group allocations is limited to a <strong>current market value</strong> of 35% of the Account(s).  The <strong>current market value </strong>of any one equity security is limited to 15% of any single segregated manager's portfolio.  These allocation limitations pertain to each separately managed portfolio.</text>
             <text>Guidelines for Cash Equivalents</text>
             <text>Money Market Funds selected shall contain securities whose credit rating at the absolute minimum would be rated investment grade by Standard and Poor's, and/or Moody's.</text>
             <text>SELECTION OF INVESTMENT MANAGERS</text>
@@ -3494,7 +3494,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The Council hereby enacts the attached law 	entitled, "APPROVING THE STATEMENT OF INVESTMENT POLICY OBJECTIVES AND GUIDELINES – HIGH INCOME (SHORT-TERM) INVESTMENT PORTFOLIO."</text>
+          <text>The Council hereby enacts the attached law  entitled, "APPROVING THE STATEMENT OF INVESTMENT POLICY OBJECTIVES AND GUIDELINES – HIGH INCOME (SHORT-TERM) INVESTMENT PORTFOLIO."</text>
         </para>
       </section>
       <section>
@@ -3526,7 +3526,7 @@
       <section>
         <num>6.6.4.040</num>
         <heading>Authorization.</heading>
-        <text>The Council hereby enacts the attached law 	entitled, "APPROVING THE STATEMENT OF INVESTMENT POLICY OBJECTIVES AND GUIDELINES – HIGH INCOME (SHORT-TERM) INVESTMENT PORTFOLIO."</text>
+        <text>The Council hereby enacts the attached law  entitled, "APPROVING THE STATEMENT OF INVESTMENT POLICY OBJECTIVES AND GUIDELINES – HIGH INCOME (SHORT-TERM) INVESTMENT PORTFOLIO."</text>
       </section>
       <section>
         <num>6.6.4.050</num>
@@ -3829,7 +3829,7 @@
             <text>including but not limited to market price fluctuations, the Investment Committee will instruct the Investment Manager(s) to bring the portfolio(s) into compliance with these guidelines as promptly and prudently as possible.  In addition, in the event that any individual Investment Manager's portfolio is in violation with its specific guidelines, for reasons including but not limited to market price fluctuations, the Council expects that the Investment Manager will bring the portfolio into compliance with these guidelines as promptly and prudently as possible without instruction from the Governor or Council.</text>
             <text>Diversification for Investment Managers</text>
             <text>It is not necessary or desirable that securities held in the Investment Account(s) represent a cross section of the economy.  However, in order to achieve a prudent level of portfolio diversification for the Investment Account(s), the following allocation limitations will be imposed:</text>
-            <text><strong>Equity:</strong> 	Sector of Industry Group allocations is limited to a <strong>current market value</strong> of 35% of the Account(s).  The <strong>current market value </strong>of any one equity security is limited to 15% of any single segregated manager's portfolio.  These allocation limitations pertain to each separately managed portfolio.</text>
+            <text><strong>Equity:</strong>  Sector of Industry Group allocations is limited to a <strong>current market value</strong> of 35% of the Account(s).  The <strong>current market value </strong>of any one equity security is limited to 15% of any single segregated manager's portfolio.  These allocation limitations pertain to each separately managed portfolio.</text>
             <text>Guidelines for Cash Equivalents</text>
             <text>Money Market Funds selected shall contain securities whose credit rating at the absolute minimum would be rated investment grade by Standard and Poor's, and/or Moody's.</text>
             <text>SELECTION OF INVESTMENT MANAGERS</text>
@@ -3970,7 +3970,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>The Council hereby enacts the attached law 	entitled the "Investment Fund Protection Act."</text>
+          <text>The Council hereby enacts the attached law  entitled the "Investment Fund Protection Act."</text>
         </para>
       </section>
       <section>
@@ -4045,28 +4045,28 @@
         <heading>Findings</heading>
         <para>
           <num>(a)</num>
-          <text>Prior to the adoption of the Governing Agreement in December 2011, the Tribal Council approved a Personnel Policy Manual governing the employment rights and practices for employees of the Pueblo;</text>
+          <text>Prior to the adoption of the Governing Agreement in December 2011, the Tribal Council approved a <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> governing the employment rights and practices for employees of the Pueblo;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>In March 2012, after the adoption of the Governing Agreement, the Council reaffirmed its approval of the Personnel Policy Manual for the Pueblo by enacting Resolution No. SI-R12-015;</text>
+          <text>In March 2012, after the adoption of the Governing Agreement, the Council reaffirmed its approval of the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> for the Pueblo by enacting Resolution No. SI-R12-015;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>In July 2016, the Governor unilaterally amended the Personnel Policy Manual by issuing a memo announcing that the Personnel Policy Manual "…has been amended…" by altering Section 411 to decrease the number of days employees may take administrative leave, and by altering the process for obtaining administrative leave;</text>
+          <text>In July 2016, the Governor unilaterally amended the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> by issuing a memo announcing that the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> "…has been amended…" by altering Section 411 to decrease the number of days employees may take administrative leave, and by altering the process for obtaining administrative leave;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>On February 3, 2017, the Governor issued an "Executive Order" declaring the Personnel Policy Manual enacted by the Council "null and void" and attempting to unilaterally adopt a new "Personnel Policy Manual 2017 Edition;"</text>
+          <text>On February 3, 2017, the Governor issued an "Executive Order" declaring the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> enacted by the Council "null and void" and attempting to unilaterally adopt a new "Personnel Policy Manual 2017 Edition;"</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>On February 27, 2017, the Governor issues a memo rescinding the "Executive Order" leaving the original Personnel Policy Manual in place.</text>
+          <text>On February 27, 2017, the Governor issues a memo rescinding the "Executive Order" leaving the original <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> in place.</text>
         </para>
       </section>
       <section>
         <num>6.7.1.020</num>
-        <heading>The Council hereby enacts the attached law 	entitled, "PERSONNEL POLICY MANUAL CLARIFICATION ACT."</heading>
+        <heading>The Council hereby enacts the attached law   entitled, "PERSONNEL POLICY MANUAL CLARIFICATION ACT."</heading>
       </section>
       <section>
         <num>6.7.1.030</num>
@@ -4076,7 +4076,7 @@
       <section>
         <num>6.7.1.040</num>
         <heading>Purpose</heading>
-        <text>The purpose of this Act is to reaffirm the Personnel Policy Manual as originally approved by the Council as the law of the Pueblo and to clarify that the Council, not the Governor, is vested with the authority, under the Governing Agreement, to enact and amend the laws of the Pueblo.</text>
+        <text>The purpose of this Act is to reaffirm the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> as originally approved by the Council as the law of the Pueblo and to clarify that the Council, not the Governor, is vested with the authority, under the Governing Agreement, to enact and amend the laws of the Pueblo.</text>
       </section>
       <section>
         <num>6.7.1.050</num>
@@ -4084,27 +4084,27 @@
         <text>The Council hereby finds and declares that:</text>
         <para>
           <num>(a)</num>
-          <text>Prior to the adoption of the Governing Agreement in December 2011, the Tribal Council approved a Personnel Policy Manual governing the employment rights and practices for employees of the Pueblo;</text>
+          <text>Prior to the adoption of the Governing Agreement in December 2011, the Tribal Council approved a <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> governing the employment rights and practices for employees of the Pueblo;</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>In March 2012, after the adoption of the Governing Agreement, the Council reaffirmed its approval of the Personnel Policy Manual for the Pueblo by enacting Resolution No. SI-R12-015;</text>
+          <text>In March 2012, after the adoption of the Governing Agreement, the Council reaffirmed its approval of the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> for the Pueblo by enacting Resolution No. SI-R12-015;</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>In July 2016, the Governor unilaterally amended the Personnel Policy Manual by issuing a memo announcing that the Personnel Policy Manual "…has been amended…" by altering Section 411 to decrease the number of days employees may take administrative leave, and by altering the process for obtaining administrative leave;</text>
+          <text>In July 2016, the Governor unilaterally amended the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> by issuing a memo announcing that the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> "…has been amended…" by altering Section 411 to decrease the number of days employees may take administrative leave, and by altering the process for obtaining administrative leave;</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>On February 3, 2017, the Governor issued an "Executive Order" declaring the Personnel Policy Manual enacted by the Council "null and void" and attempting to unilaterally adopt a new "Personnel Policy Manual 2017 Edition."</text>
+          <text>On February 3, 2017, the Governor issued an "Executive Order" declaring the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> enacted by the Council "null and void" and attempting to unilaterally adopt a new "Personnel Policy Manual 2017 Edition."</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>On February 27, 2017, the Governor issues a memo rescinding the "Executive Order" leaving the original Personnel Policy Manual in place;</text>
+          <text>On February 27, 2017, the Governor issues a memo rescinding the "Executive Order" leaving the original <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> in place;</text>
         </para>
         <para>
           <num>(f)</num>
-          <text>It is in the best interest of the Pueblo and its employees to reaffirm and clarify that the Council, not the Governor, is vested with the power to enact and modify the laws of the Pueblo including the Personnel Policy Manual.</text>
+          <text>It is in the best interest of the Pueblo and its employees to reaffirm and clarify that the Council, not the Governor, is vested with the power to enact and modify the laws of the Pueblo including the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>.</text>
         </para>
       </section>
       <section>
@@ -4112,23 +4112,23 @@
         <heading>Reaffirmation of the Personnel Policy Manual as Pueblo Law</heading>
         <para>
           <num>(a)</num>
-          <text>Pursuant to the Agreement, THE GOVERNMENT – Section 5, the Council is vested with the authority to enact laws for the Pueblo, and the Council has previously reaffirmed the enactment of the Personnel Policy Manual as the law of the Pueblo when it passed Resolution No. SI-R12-015.</text>
+          <text>Pursuant to the Agreement, THE GOVERNMENT – Section 5, the Council is vested with the authority to enact laws for the Pueblo, and the Council has previously reaffirmed the enactment of the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> as the law of the Pueblo when it passed Resolution No. SI-R12-015.</text>
         </para>
         <para>
           <num>(b)</num>
-          <text>The Council again reaffirms its enactment of the Personnel Policy Manual as the law of the Pueblo, and clarifies that the Council, not the Governor, is vested with the authority to modify the Personnel Policy Manual.</text>
+          <text>The Council again reaffirms its enactment of the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> as the law of the Pueblo, and clarifies that the Council, not the Governor, is vested with the authority to modify the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite>.</text>
         </para>
         <para>
           <num>(c)</num>
-          <text>The Governor is prohibited from modifying or amending the Personnel Policy Manual by memo, Executive Order, or otherwise.</text>
+          <text>The Governor is prohibited from modifying or amending the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> by memo, Executive Order, or otherwise.</text>
         </para>
         <para>
           <num>(d)</num>
-          <text>The unilateral changes to Section 411 of the Personnel Policy Manual allegedly made by the Governor pursuant to his memo dated July 7, 2016, and the new "Personnel Policy Manual 2017 Edition" allegedly approved by the Governor by Executive Order, are hereby repealed, the Governor's decision to rescind the "2017 Edition" of the Personnel Policy Manual is hereby acknowledged, and the original Personnel Policy Manual including the original Section 411 as approved and reaffirmed by the Council shall remain in full force and effect.</text>
+          <text>The unilateral changes to Section 411 of the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> allegedly made by the Governor pursuant to his memo dated July 7, 2016, and the new "Personnel Policy Manual 2017 Edition" allegedly approved by the Governor by Executive Order, are hereby repealed, the Governor's decision to rescind the "2017 Edition" of the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> is hereby acknowledged, and the original <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> including the original Section 411 as approved and reaffirmed by the Council shall remain in full force and effect.</text>
         </para>
         <para>
           <num>(e)</num>
-          <text>The Council invites the Governor to offer and propose suggested amendments to the Personnel Policy Manual at any time for consideration by the Council.</text>
+          <text>The Council invites the Governor to offer and propose suggested amendments to the <cite doc="Pueblo de San Ildefonso Personnel Policy Manual">Personnel Policy Manual</cite> at any time for consideration by the Council.</text>
         </para>
       </section>
     </container>

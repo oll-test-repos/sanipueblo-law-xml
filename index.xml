@@ -7,17 +7,18 @@
       <email>help@openlawlib.org</email>
     </contact>
     <canonical-urls>
-      <xml-bulk>https://github.com/oll-test-repos/sanipueblo-law-xml</xml-bulk>
-      <html-bulk>https://github.com/oll-test-repos/sanipueblo-law-html</html-bulk>
+      <xml-bulk>https://github.com/sanipueblo/law-xml</xml-bulk>
+      <html-bulk>https://github.com/sanipueblo/law-html</html-bulk>
       <html>https://law.sanipueblo.org</html>
-      <static-assets>https://github.com/oll-test-repos/openlawlibrary-law-static-assets</static-assets>
-	    <law-git>https://github.com/oll-test-repos/sanipueblo-law.git</law-git>
+      <static-assets>https://github.com/sanipueblo/law-static-assets</static-assets>
+      <law-git>https://github.com/sanipueblo/law.git</law-git>
     </canonical-urls>
     <history-start>2017-04-19</history-start>
   </meta>
   <xi:include href="./us/nsn/san-ildefonso/council/code/index.xml"/>
   <collection name="us/nsn/san-ildefonso/council/resolutions">
     <heading>Council Resolutions</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2022/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2021/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2020/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2019/index.xml"/>
@@ -29,6 +30,11 @@
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2013/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2012/index.xml"/>
     <xi:include href="./us/nsn/san-ildefonso/council/resolutions/2011/index.xml"/>
+  </collection>
+  <collection name="us/nsn/san-ildefonso/council/policies">
+    <heading>Pueblo de San Ildefonso Policies</heading>
+    <xi:include href="./us/nsn/san-ildefonso/council/policies/enrollment_policy.xml"/>
+    <xi:include href="./us/nsn/san-ildefonso/council/policies/personnel_policy.xml"/>
   </collection>
   <xi:include href="./us/nsn/san-ildefonso/corporations/san-ildefonso-services/index.xml"/>
 </library>
